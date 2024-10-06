@@ -114,3 +114,4 @@ l15.forEach(function (element) {
     var p2 = performance.now();
     console.log('heap sort:', (p2 - p1).toFixed(5), 'ms');
 });
+console.log(l15);
