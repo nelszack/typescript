@@ -133,5 +133,3 @@ l15.forEach(element => {
     let p2 = performance.now()
     console.log('heap sort:', (p2 - p1).toFixed(5), 'ms')
 });
-
-console.log(l15)
